@@ -1,1 +1,3 @@
 # ouyang_yibin_1055_icon_project
+This is my icon, I made an icon about our daily life, these icons are very simple but can represent some of the daily activities in our lives. In my opinion, icons can simplify our lives. 
+If you apply these icons to our lives, you can make life simple. For example, when I want to ask friends to go out to eat, I don’t have to send a message to everyone. It is an icon that can be sent directly to eat instead.
