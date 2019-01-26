@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.image-wrapper 
+{
+	width: 45%;
+	display: inline-block;
+}
+
+img 
+{
+	width: 100%;
+	display: block;
+	margin:20px;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.line1
+{
+	padding-left: 200px;
+	padding-top: 30px;
+
+}
+
+ p
+{
+	color: #408da8;
+	font-size: 15px;
+}
+
+.title
+{
+	padding-left: 300px;
+}
+
+.firstIocn
+{
+	width: 120px;
+	height: 120px;
+	padding-left: 30px;
+	display: flex;
+	flex-direction: inline;
+}
+
+.line2
+{
+	width: 120px;
+	height: 120px;
+	padding-left: 230px;
+	padding-top: 100px;
+	display: flex;
+	flex-direction: inline;
+}
+
+.line3
+{
+	width: 120px;
+	height: 120px;
+	padding-left: 230px;
+	padding-top: 100px;
+	display: flex;
+	flex-direction: inline;
+}
+
+.line4
+{
+	width: 120px;
+	height: 120px;
+	padding-left: 455px;
+	padding-top: 100px;
+	display: flex;
+	flex-direction: inline;
+}
